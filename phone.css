@@ -1,0 +1,84 @@
+#navbar{
+    flex-direction: column;
+
+}
+#navbar ul li a{
+    flex-direction: column;
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+#home p {
+    font-size: 10px;
+}
+#home h2 {
+    font-family: 'Shalimar', cursive;
+    font-size: 2.2rem;
+    color: rgb(53, 46, 46);
+    text-align: center;
+}
+
+#home{
+height: 258px;
+width :auto;
+padding: 3px 28px;
+
+}
+#home::before{
+height: 400px;
+
+
+}
+#home p{
+    font-size: 13px;
+
+}
+
+#services{
+flex-direction: column;
+}
+#services .box{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+
+}
+
+
+
+#clients{
+    flex-direction: column;
+  flex-wrap: wrap;
+   
+}
+
+#clients img{
+    width: 76px;
+    padding:22px 22px ;
+    height: auto;
+}
+
+
+
+
+#contact-box form{
+    align-items: center;
+width: 70% ;
+
+}
+
+
+
+#footer{
+
+
+}
+
+.h-primary{
+    font-size: 26px;
+}
+
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
